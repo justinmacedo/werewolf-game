@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/werewolf-game/precache-manifest.e672334cc7ffb8e205371b3f611da295.js"
+  "/werewolf-game/precache-manifest.6c05c18e9adfbeb45715b44f0ada4972.js"
 );
 
 workbox.clientsClaim();

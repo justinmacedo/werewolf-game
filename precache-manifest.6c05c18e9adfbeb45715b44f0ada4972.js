@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/werewolf-game/static/js/runtime~main.104e81d6.js"
   },
   {
-    "revision": "924e38a2dc96c2ef816d",
-    "url": "/werewolf-game/static/js/main.924e38a2.chunk.js"
+    "revision": "7b3f50da8f1ec51ea016",
+    "url": "/werewolf-game/static/js/main.7b3f50da.chunk.js"
   },
   {
     "revision": "1a2fe23bbee4e72efb16",
     "url": "/werewolf-game/static/js/1.1a2fe23b.chunk.js"
   },
   {
-    "revision": "924e38a2dc96c2ef816d",
-    "url": "/werewolf-game/static/css/main.f8ac7638.chunk.css"
+    "revision": "7b3f50da8f1ec51ea016",
+    "url": "/werewolf-game/static/css/main.fe163894.chunk.css"
   },
   {
-    "revision": "97d0a12cb946e8851f6edc0ed53fad96",
+    "revision": "ba62e17b0eda6a57a49e1d875bc29b09",
     "url": "/werewolf-game/index.html"
   }
 ];

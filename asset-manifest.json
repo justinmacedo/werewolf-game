@@ -1,14 +1,14 @@
 {
-  "main.css": "/werewolf-game/static/css/main.f8ac7638.chunk.css",
-  "main.js": "/werewolf-game/static/js/main.924e38a2.chunk.js",
-  "main.js.map": "/werewolf-game/static/js/main.924e38a2.chunk.js.map",
+  "main.css": "/werewolf-game/static/css/main.fe163894.chunk.css",
+  "main.js": "/werewolf-game/static/js/main.7b3f50da.chunk.js",
+  "main.js.map": "/werewolf-game/static/js/main.7b3f50da.chunk.js.map",
   "static/js/1.1a2fe23b.chunk.js": "/werewolf-game/static/js/1.1a2fe23b.chunk.js",
   "static/js/1.1a2fe23b.chunk.js.map": "/werewolf-game/static/js/1.1a2fe23b.chunk.js.map",
   "runtime~main.js": "/werewolf-game/static/js/runtime~main.104e81d6.js",
   "runtime~main.js.map": "/werewolf-game/static/js/runtime~main.104e81d6.js.map",
   "static/media/logo.svg": "/werewolf-game/static/media/logo.5d5d9eef.svg",
-  "static/css/main.f8ac7638.chunk.css.map": "/werewolf-game/static/css/main.f8ac7638.chunk.css.map",
+  "static/css/main.fe163894.chunk.css.map": "/werewolf-game/static/css/main.fe163894.chunk.css.map",
   "index.html": "/werewolf-game/index.html",
-  "precache-manifest.e672334cc7ffb8e205371b3f611da295.js": "/werewolf-game/precache-manifest.e672334cc7ffb8e205371b3f611da295.js",
+  "precache-manifest.6c05c18e9adfbeb45715b44f0ada4972.js": "/werewolf-game/precache-manifest.6c05c18e9adfbeb45715b44f0ada4972.js",
   "service-worker.js": "/werewolf-game/service-worker.js"
 }
