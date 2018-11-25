@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.5.1",
     "react": "^16.6.1",
+    "react-burger-menu": "^2.5.4",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-sidebar": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -25,6 +28,7 @@
   ],
   "homepage": "http://justinmacedo.github.io/werewolf-game",
   "devDependencies": {
+    "firebase": "^5.5.9",
     "gh-pages": "^2.0.1"
   }
 }
